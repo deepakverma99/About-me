@@ -88,10 +88,10 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>DEVELOP</h3>
-              <h4>Description</h4>
+              <h4>Web Applications</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                I develop web applications, They aspire to enhance user experiences, optimize system performance,
+                and develop solutions that address real-world challenges in technology.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -103,8 +103,7 @@ const WhatIDo = () => {
                 <div className="what-tags">Node.js</div>
                 <div className="what-tags">Next.js</div>
                 <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">MongoDB</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -129,21 +128,14 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
             <div className="what-content-in">
               <h3>DESIGN</h3>
-              <h4>Description</h4>
+              <h4>Presentations</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                I can also create Logos, Cards,etc using Canva
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Canva</div>
+                <div className="what-tags">Leonardo AI</div>
               </div>
               <div className="what-arrow"></div>
             </div>

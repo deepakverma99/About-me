@@ -168,7 +168,7 @@ const TechStack = () => {
 
   return (
     <div className="techstack">
-      <h2> My Techstack</h2>
+      <h2></h2>
 
       <Canvas
         shadows
@@ -212,3 +212,4 @@ const TechStack = () => {
 };
 
 export default TechStack;
+

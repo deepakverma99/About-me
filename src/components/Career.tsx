@@ -15,43 +15,32 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>College Starting year</h4>
+                <h5>Invertis University, Bareilly</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+            I began college on July 17, 
+            2023. Passionate about computer applications, 
+            they are eager to develop their technical skills and knowledge. 
+            Dedicated to learning and growth, 
+            they aim to build a strong foundation for a successful career in technology.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>College Ending year</h4>
+                <h5>Invertis University, Bareilly</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
-              </div>
-              <h3>NOW</h3>
-            </div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+            After completing graduation, 
+            I aim to contribute to software development by creating innovative and efficient applications. 
+            They aspire to enhance user experiences, optimize system performance, 
+            and develop solutions that address real-world challenges in technology.
             </p>
           </div>
         </div>
@@ -61,3 +50,4 @@ const Career = () => {
 };
 
 export default Career;
+
